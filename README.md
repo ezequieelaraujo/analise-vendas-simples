@@ -1,6 +1,16 @@
-# 📊 Projeto de Análise de Vendas
+## 📸 Dashboard
 
-Este projeto foi desenvolvido com o objetivo de praticar conceitos de análise de dados utilizando SQL e Power BI.
+![Dashboard](dashboard/dashboard.png)
+## 📊 Sobre o projeto
+
+Projeto simples de análise de dados utilizando dados de vendas simulados.
+
+Foram realizadas análises como:
+- Total de vendas
+- Vendas por categoria
+- Produtos mais vendidos
+
+Os dados foram tratados e visualizados utilizando Power BI.
 
 ## 🔧 Ferramentas utilizadas
 - SQL
