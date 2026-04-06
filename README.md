@@ -1,6 +1,6 @@
 ## 📸 Dashboard
 
-![Dashboard](dashboard/dashpowerbi.png)
+![Dashboard](dashboard/dashboard.png)
 ## 📊 Sobre o projeto
 
 Projeto simples de análise de dados utilizando dados de vendas simulados.
